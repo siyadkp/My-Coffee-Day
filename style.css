@@ -1,0 +1,72 @@
+.btn{
+    border-radius: 90px;
+
+}
+.searching{
+    width: 10%;
+    height: 10%;
+}
+.navbar{
+    align-items: center;
+    text-align:  end;
+}
+.navbar-contend{
+    font-size: 15px;
+    
+}
+.navbar a:hover {
+text-decoration:underline brown;
+}
+.card{
+    align-items: center;
+    border-width: 0;
+}
+.buttons{
+    text-align: center;
+    
+}
+.insta{
+width: 34px;
+height: 31px;
+border-radius: 10px;
+border: none;
+background-size: contain;    
+background-image: url(2022-09-19\ \(2\).png)
+}
+.fb{
+    width: 34px;
+    height: 33px;
+    border-radius: 10px;
+border: none;
+    background-size: contain;    
+    background-image: url(sign-fb-logo.png)
+
+}
+.google{
+    width: 34px;
+    height: 31px;
+    border-radius: 10px;
+border: none;
+    background-size: contain;    
+    background-image: url(sign-google-logo.png)
+}
+.youtube{
+width: 34px;
+height: 31px;
+border-radius: 10px;
+border: none;
+background-size:cover;    
+background-image: url(you.webp)
+}
+.footerlinks{
+    text-decoration: none;
+    color: darkgrey;
+}    
+.foottext{
+    font-size:12px;
+    margin-bottom: -1rem;
+}
+.cardtitle{
+    font-size: 14px;
+    color: darkgrey;
+}
